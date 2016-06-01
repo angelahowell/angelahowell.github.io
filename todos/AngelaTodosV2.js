@@ -1,5 +1,5 @@
 /*
-	Version 2 of todo list program
+	Angela Howell
 */
 
 // 0.) Make a to do list as an array
