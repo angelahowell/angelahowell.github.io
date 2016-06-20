@@ -1,4 +1,8 @@
+body{
+    font-family: sans-serif;
+}
 .appHolder{
+    background: lightgray;
     width: 250px;
     margin: 100px auto;
     text-align: center;
@@ -7,5 +11,21 @@
     border-radius: 1rem;
     padding: 1rem;
     padding-top: 0px;
-    webkit-user-select: none;
+    user-select: none;
+}
+
+.button{
+    width:50%;
+    height: 20%;
+    border-radius: 0.5rem;
+    background: linear-gradient(white,magenta);
+    margin: 0 auto;
+    font-size: 1.5rem;
+    padding: 5px;
+    font-family: sans-serif;
+}
+
+.button:active{
+     background: linear-gradient(magenta,white);
+    
 }
