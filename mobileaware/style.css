@@ -1,6 +1,7 @@
 #words{
     width: 25%;
-    margin: 0 auto;  /*centers the div*/
+    margin: 0 auto;  
+    text-align: center;
     border: 1px solid red;
     font-size: 16px;
     
